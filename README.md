@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **anjuroca85/anjuroca85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 *Welcome to my GitHub profile! I'm excited to share my journey into coding and development with you. Here's a bit about me:
 
@@ -12,4 +12,3 @@
 - 📫 How to reach me: anjuroca85@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:  While surrounded by developers, my current job is ensuring products meet high standards. However, I'm determined to transition to a developer role soon!
--->
